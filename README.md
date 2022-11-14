@@ -1,5 +1,5 @@
 ## Oii! Eu sou a Aline Batista 👋
-sou Desenvolvedora de Sistemas 
+Sou Desenvolvedora de Sistemas 
 
 
 <div align="center">
